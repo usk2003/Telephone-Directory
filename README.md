@@ -76,7 +76,7 @@ A simple **Phone Book Application** implemented in C. This project allows users 
 - Implement search optimization for larger contact lists.
 - Add a GUI version of the application.
 
---
+---
 
 ## 📥 Clone the repository:
    ```bash
